@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\cookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\cookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\waiterwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\waiterwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\manageshiftswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\manageshiftswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\manageorderswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\manageorderswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\addneworderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\addneworderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\addnewshiftwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\addnewshiftwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\addnewstaffwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\addnewstaffwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\managestaff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\managestaff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\models\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\models\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\addnewshiftwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\addnewshiftwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\waiterwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\waiterwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\managestaff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\managestaff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\manageshiftswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\manageshiftswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\manageorderswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\manageorderswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\cookwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\cookwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\addneworderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\addneworderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\addnewstaffwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\addnewstaffwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|c:\\users\\anast\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\demo\\demo\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F9774A-9921-4F73-8F46-D68114A6D371}|Demo\\Demo.csproj|solutionrelative:demo\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CookWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\CookWindow.xaml",
+              "RelativeDocumentMoniker": "Demo\\CookWindow.xaml",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\CookWindow.xaml",
+              "RelativeToolTip": "Demo\\CookWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T18:39:28.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WaiterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\WaiterWindow.xaml",
+              "RelativeDocumentMoniker": "Demo\\WaiterWindow.xaml",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\WaiterWindow.xaml",
+              "RelativeToolTip": "Demo\\WaiterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T18:39:12.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddNewOrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\AddNewOrderWindow.xaml",
+              "RelativeDocumentMoniker": "Demo\\AddNewOrderWindow.xaml",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\AddNewOrderWindow.xaml",
+              "RelativeToolTip": "Demo\\AddNewOrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T18:40:20.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "Demo\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\AdminWindow.xaml",
+              "RelativeToolTip": "Demo\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T18:32:42.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageOrdersWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\ManageOrdersWindow.xaml",
+              "RelativeDocumentMoniker": "Demo\\ManageOrdersWindow.xaml",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\ManageOrdersWindow.xaml",
+              "RelativeToolTip": "Demo\\ManageOrdersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T18:39:23.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageShiftsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\ManageShiftsWindow.xaml",
+              "RelativeDocumentMoniker": "Demo\\ManageShiftsWindow.xaml",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\ManageShiftsWindow.xaml",
+              "RelativeToolTip": "Demo\\ManageShiftsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T18:39:18.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddNewShiftWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\AddNewShiftWindow.xaml",
+              "RelativeDocumentMoniker": "Demo\\AddNewShiftWindow.xaml",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\AddNewShiftWindow.xaml",
+              "RelativeToolTip": "Demo\\AddNewShiftWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T18:40:13.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddNewStaffWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\AddNewStaffWindow.xaml",
+              "RelativeDocumentMoniker": "Demo\\AddNewStaffWindow.xaml",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\AddNewStaffWindow.xaml",
+              "RelativeToolTip": "Demo\\AddNewStaffWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T18:39:47.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageStaff.xaml",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\ManageStaff.xaml",
+              "RelativeDocumentMoniker": "Demo\\ManageStaff.xaml",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\ManageStaff.xaml",
+              "RelativeToolTip": "Demo\\ManageStaff.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T07:53:39.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Demo\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\MainWindow.xaml",
+              "RelativeToolTip": "Demo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T18:36:34.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DemoContext.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\Models\\DemoContext.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\DemoContext.cs",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\Models\\DemoContext.cs",
+              "RelativeToolTip": "Demo\\Models\\DemoContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T21:53:51.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Demo\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Demo\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAlwC4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:49:35.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageStaff.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\ManageStaff.xaml.cs",
+              "RelativeDocumentMoniker": "Demo\\ManageStaff.xaml.cs",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\ManageStaff.xaml.cs",
+              "RelativeToolTip": "Demo\\ManageStaff.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwCMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:30:18.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageShiftsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\ManageShiftsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Demo\\ManageShiftsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\ManageShiftsWindow.xaml.cs",
+              "RelativeToolTip": "Demo\\ManageShiftsWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:46:01.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManageOrdersWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\ManageOrdersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Demo\\ManageOrdersWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\ManageOrdersWindow.xaml.cs",
+              "RelativeToolTip": "Demo\\ManageOrdersWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:46:27.036Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddNewShiftWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\AddNewShiftWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Demo\\AddNewShiftWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\AddNewShiftWindow.xaml.cs",
+              "RelativeToolTip": "Demo\\AddNewShiftWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T20:57:23.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WaiterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\WaiterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Demo\\WaiterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\WaiterWindow.xaml.cs",
+              "RelativeToolTip": "Demo\\WaiterWindow.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:41:11.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CookWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\CookWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Demo\\CookWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\CookWindow.xaml.cs",
+              "RelativeToolTip": "Demo\\CookWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:51:28.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddNewOrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\AddNewOrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Demo\\AddNewOrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\AddNewOrderWindow.xaml.cs",
+              "RelativeToolTip": "Demo\\AddNewOrderWindow.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:57:17.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddNewStaffWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\AddNewStaffWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Demo\\AddNewStaffWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\AddNewStaffWindow.xaml.cs",
+              "RelativeToolTip": "Demo\\AddNewStaffWindow.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T20:51:28.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Demo\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0435\u043C\u043E \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\Demo\\Demo\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "Demo\\AdminWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:51:08.465Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

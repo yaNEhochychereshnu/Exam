@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AddNewOrderWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddNewShiftWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddNewStaffWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CookWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManageOrdersWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManageShiftsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManageStaff.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WaiterWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddNewOrderWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddNewShiftWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddNewStaffWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CookWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManageOrdersWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManageShiftsWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManageStaff.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WaiterWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
